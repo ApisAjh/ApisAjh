@@ -27,16 +27,16 @@ Building useful projects with code and Artificial Intelligence.
 - 🌱 Currently learning AI Engineering
 - 💻 Building Web Applications & AI Projects
 - 🎨 Interested in modern UI/UX
-- ⚡ Always exploring new technologies
+- ⚡ Always learning new technologies
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 </p>
 
 ### Backend
@@ -59,33 +59,11 @@ Building useful projects with code and Artificial Intelligence.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApisAjh&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApisAjh&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=ApisAjh&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ApisAjh&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -104,7 +82,7 @@ Building useful projects with code and Artificial Intelligence.
 # 🎯 Goals
 
 - 🚀 Build impactful projects
-- 🌱 Keep improving my programming skills
+- 🌱 Keep improving programming skills
 - 🤝 Contribute to Open Source
 - 💡 Create useful applications
 - 🤖 Explore AI & Modern Web Technologies
