@@ -45,12 +45,6 @@ Building useful projects with code and Artificial Intelligence.
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb"/>
-</p>
-
 ### Tools
 
 <p>
