@@ -36,7 +36,7 @@ Building useful projects with code and Artificial Intelligence.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ### Backend
