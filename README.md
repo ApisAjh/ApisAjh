@@ -11,7 +11,7 @@ Full Stack Developer • AI Enthusiast • Open Source Learner
 </h3>
 
 <p align="center">
-Building useful things with code and Artificial Intelligence.
+Building useful projects with code and Artificial Intelligence.
 </p>
 
 <p align="center">
@@ -25,18 +25,18 @@ Building useful things with code and Artificial Intelligence.
 - 🚀 Full Stack Developer
 - 🤖 AI Enthusiast
 - 🌱 Currently learning AI Engineering
-- 💻 Passionate about Web Development
-- 🎨 Love creating clean and modern UI/UX
-- ⚡ Always learning new technologies
+- 💻 Building Web Applications & AI Projects
+- 🎨 Interested in modern UI/UX
+- ⚡ Always exploring new technologies
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tools & Technologies
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ### Backend
@@ -54,7 +54,7 @@ Building useful things with code and Artificial Intelligence.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=github,vercel,vscode"/>
 </p>
 
 ---
@@ -63,9 +63,9 @@ Building useful things with code and Artificial Intelligence.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apisbiasa&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApisAjh&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisbiasa&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApisAjh&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -85,7 +85,7 @@ Building useful things with code and Artificial Intelligence.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=apisbiasa&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ApisAjh&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -95,7 +95,7 @@ Building useful things with code and Artificial Intelligence.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApisAjh&ApisAjh=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApisAjh&theme=tokyo-night"/>
 
 </p>
 
@@ -104,10 +104,10 @@ Building useful things with code and Artificial Intelligence.
 # 🎯 Goals
 
 - 🚀 Build impactful projects
-- 🌱 Keep learning every day
+- 🌱 Keep improving my programming skills
 - 🤝 Contribute to Open Source
-- 💡 Solve real-world problems with code
-- 📚 Explore AI & Modern Web Technologies
+- 💡 Create useful applications
+- 🤖 Explore AI & Modern Web Technologies
 
 ---
 
